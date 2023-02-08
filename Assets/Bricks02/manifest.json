@@ -1,0 +1,8 @@
+{
+    "name":"Bricks02",
+    "creator":"Naxela",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"Bricks02, contrast, pattern, wall",
+    "powerplug":{"mode":"blend", "src":"Bricks02.blend"}
+}
