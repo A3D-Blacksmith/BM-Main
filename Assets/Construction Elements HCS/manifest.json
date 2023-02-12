@@ -4,5 +4,7 @@
     "category":"3D Models",
     "filename":"Assets.zip",
     "tags":"",
+    "version":"0.01",
+    "website":"", 
     "powerplug":{"mode":"blend", "src":"Construction-Elements-HCS.blend"}
 }
