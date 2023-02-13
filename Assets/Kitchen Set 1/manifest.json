@@ -1,0 +1,10 @@
+{
+    "name":"Kitchen Set 1",
+    "creator":"Naxela",
+    "category":"3D Models",
+    "filename":"Assets.zip",
+    "tags":"kitchen,room,interior,dining",
+    "version":"0.01",
+    "website":"", 
+    "powerplug":{"mode":"blend", "src":"KitchenSet.blend"}
+}
