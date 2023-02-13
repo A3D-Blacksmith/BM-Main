@@ -1,0 +1,10 @@
+{
+    "name":"Floor Shelf",
+    "creator":"Naxela",
+    "category":"3D Models",
+    "filename":"Assets.zip",
+    "tags":"floor, shelf, organic, light, architectural, interior",
+    "version":"0.01",
+    "website":"", 
+    "powerplug":{"mode":"blend", "src":"FloorShelf.blend"}
+}
