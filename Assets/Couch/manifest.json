@@ -3,8 +3,8 @@
     "creator":"Naxela",
     "category":"3D Models",
     "filename":"Assets.zip",
-    "tags":"couch, furniture",
+    "tags":"couch,furniture,sofa,interior,fabric",
     "version":"0.01",
-    "website":"ouch,furniture,sofa,interior,fabric", 
+    "website":"", 
     "powerplug":{"mode":"blend", "src":"Couch.blend"}
 }

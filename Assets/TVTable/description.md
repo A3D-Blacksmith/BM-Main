@@ -1,2 +1,2 @@
-# Planks 09
-Planks 09 from CC0Textures.
+# TVTable
+It's a very simple TV Table, you can use it to place a TV on.
