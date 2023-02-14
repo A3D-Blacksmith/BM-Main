@@ -1,1 +1,23 @@
-["A3D-Blacksmith/BM-Main"]
+{
+    "//comment1" : "The repos variable holds the complete list of public repositories",
+    "repos":[
+        "A3D-Blacksmith/BM-Main"
+    ],
+
+    "//comment2" : "The featured list contains 6 featured assets that are handpicked",
+    "featured":[
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+
+    "//comment3" : "The highlights are direct links to wide-view banner style looped movies/animations",
+    "highlights": [
+        "",
+        "",
+        ""
+    ]
+}
