@@ -4,14 +4,14 @@
         "A3D-Blacksmith/BM-Main"
     ],
 
-    "//comment2" : "The featured list contains 6 featured assets that are handpicked",
+    "//comment2" : "The featured list contains 6 featured assets that are handpicked [Link, Title, Category, Creator]",
     "featured":[
-        "A3D-Blacksmith/BM-Main/Design Chair 1",
-        "A3D-Blacksmith/BM-Main/Power Socket",
-        "A3D-Blacksmith/BM-Main/TV",
-        "A3D-Blacksmith/BM-Main/TVTable2",
-        "A3D-Blacksmith/BM-Main/Wall Light 1",
-        "A3D-Blacksmith/BM-Main/Floor Shelf"
+        ["A3D-Blacksmith/BM-Main/Design Chair 1","Design Chair 1","3D Models","Naxela"],
+        ["A3D-Blacksmith/BM-Main/Power Socket","Power Socket","",""],
+        ["A3D-Blacksmith/BM-Main/TV","TV","3D Models","Naxela"],
+        ["A3D-Blacksmith/BM-Main/TVTable2","TV Table 2","3D Models","Naxela"],
+        ["A3D-Blacksmith/BM-Main/Wall Light 1","Wall Light 1","3D Models","Naxela"],
+        ["A3D-Blacksmith/BM-Main/Floor Shelf","Floor Shelf","3D Models","Naxela"]
     ],
 
     "//comment3" : "The highlights are direct links to wide-view banner style looped movies/animations",
