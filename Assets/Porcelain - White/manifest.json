@@ -1,0 +1,10 @@
+{
+    "name":"Porcelain - White",
+    "creator":"Naxela",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"porcelain",
+    "version":"0.01",
+    "website":"https://www.blender.org/download/demo-files/", 
+    "powerplug":{"mode":"blend", "src":"Porcelain - White.blend"}
+}

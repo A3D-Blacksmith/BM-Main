@@ -1,0 +1,10 @@
+{
+    "name":"Wood 1",
+    "creator":"Naxela",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"wood",
+    "version":"0.01",
+    "website":"https://www.blender.org/download/demo-files/", 
+    "powerplug":{"mode":"blend", "src":"Wood1.blend"}
+}
