@@ -1,32 +1,3 @@
-name: Run Script
-
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout repo content
-      - uses: actions/checkout@v3
-      - name: setup python
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.8
-      - name: execute-python-script
-        run:
-          python main.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "crongenerated"
-          git push
-
 # This is a basic workflow to help you get started with Actions
 
 name: Update Index
