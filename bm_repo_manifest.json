@@ -16,13 +16,8 @@
 
     "//comment3" : "The highlights are direct links to wide-view banner style looped movies/animations",
     "highlights": [
-        "",
-        "",
-        ""
-    ],
-
-    "//comment4" : "A github action will update these. The asset links are looked up with Github API and a last-modified date is applied. New files are looked up first, oldest are looked up afterwards.",
-    "chronotab": {
-        "A3D-Blacksmith/BM-Main/Power Socket" : "2023-02-13T19:19:00Z"
-    }
+        "A3D-Blacksmith/BM-Main/Highlight_1.webm",
+        "A3D-Blacksmith/BM-Main/Highlight_2.webm",
+        "A3D-Blacksmith/BM-Main/Highlight_3.webm"
+    ]
 }
