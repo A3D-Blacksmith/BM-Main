@@ -32,14 +32,14 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Commit files
         run: |
-          git config --local user.name "naxela"
-          git config user.email "kleemannalexander@gmail.com"
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           git add .
           git commit -m "crongenerated"
           # git push
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.PAT }}
           force: true
       
