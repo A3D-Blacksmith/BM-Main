@@ -58,7 +58,9 @@ for name in os.listdir("Assets"):
 
     repo_manifest.append(asset)
 
-print(repo_manifest[0])
+#print(repo_manifest[0])
+
+json_object = json.dumps(repo_manifest, indent=4)
 
 with open('bm_repo_index.json', 'w') as outfile:
-    outfile.write(str(repo_manifest))
+    outfile.write(json_object)
