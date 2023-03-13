@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
-          git test.json
+          git add test.json
           git commit -m "crongenerated"
           git push
       - name: Push changes
