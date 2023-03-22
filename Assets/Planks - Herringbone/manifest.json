@@ -1,0 +1,10 @@
+{
+    "name":"Planks - Herringbone",
+    "creator":"Naxela",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"material, plank, herringbone, bone",
+    "version":"0.01",
+    "website":"", 
+    "powerplug":{"mode":"blend", "src":"Planks - Herringbone.blend"}
+}
