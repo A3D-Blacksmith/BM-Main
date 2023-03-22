@@ -1,8 +1,7 @@
 {
     "//comment1" : "The repos variable holds the complete list of public repositories",
     "repos":[
-        "A3D-Blacksmith/BM-Main",
-        "Naxela/blackmarket-repo-a"
+        "A3D-Blacksmith/BM-Main"
     ],
 
     "//comment2" : "The featured list contains 6 featured assets that are handpicked [Link, Title, Category, Creator]",
