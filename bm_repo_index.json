@@ -1,153 +1,78 @@
 [
     {
-        "name": "Wood6",
+        "name": "Floor Shelf",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Wood 6",
+            "name": "Floor Shelf",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "floor, shelf, organic, light, architectural, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "FloorShelf.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "floor, shelf, organic, light, architectural, interior",
+        "realname": "Floor Shelf",
+        "category": "3D Models",
+        "date": 1681215614.8258455,
+        "size": "387285",
+        "thumbnail": "Assets/Floor Shelf/thumbnail.png",
+        "description": "# Floor Shelf\nI've got to admit that I'm not entirely sure what to call this. It's some sort of container for a blob sculpture with integrated lighting. Lightmap ready."
+    },
+    {
+        "name": "Clay",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Clay",
             "creator": "Naxela",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "wood, floor",
+            "tags": "material, clay, outdoor",
             "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
+            "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Wood6.blend"
+                "src": "Clay.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "wood, floor",
-        "realname": "Wood 6",
+        "tags": "material, clay, outdoor",
+        "realname": "Clay",
         "category": "Materials",
-        "date": 1679487635.4074216,
-        "size": "856148",
-        "thumbnail": "Assets/Wood6/thumbnail.png",
-        "description": "# Wood 6\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 6 from the Blender Diorama Demo."
+        "date": 1681215614.5978446,
+        "size": "320094",
+        "thumbnail": "Assets/Clay/thumbnail.png",
+        "description": "# Clay\nIt's a very simple clay texture. I honestly don't remember where I got it from"
     },
     {
-        "name": "Vase",
+        "name": "Couch",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Vase",
+            "name": "Couch",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "vase, sculpture, decoration",
+            "tags": "couch,furniture,sofa,interior,fabric",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Vase.blend"
+                "src": "Couch.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "vase, sculpture, decoration",
-        "realname": "Vase",
+        "tags": "couch,furniture,sofa,interior,fabric",
+        "realname": "Couch",
         "category": "3D Models",
-        "date": 1679487635.3714218,
-        "size": "160498",
-        "thumbnail": "Assets/Vase/thumbnail.png",
-        "description": "# Vase\nA simple vase. Ready to be lightmapped."
-    },
-    {
-        "name": "Metal",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Metal",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal, metallic",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Metal.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "metal, metallic",
-        "realname": "Metal",
-        "category": "Materials",
-        "date": 1679487635.1154232,
-        "size": "447854",
-        "thumbnail": "Assets/Metal/thumbnail.png",
-        "description": "# Metal\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nMetal from the Blender Diorama Demo."
-    },
-    {
-        "name": "Design Chair 3",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Design Chair 3",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "design, chair, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "DesignChair3.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "design, chair, interior",
-        "realname": "Design Chair 3",
-        "category": "3D Models",
-        "date": 1679487634.8914242,
-        "size": "12695834",
-        "thumbnail": "Assets/Design Chair 3/thumbnail.png",
-        "description": "# Design Chair 3\nA design chair that is black, made of wood and lightmap ready."
-    },
-    {
-        "name": "Side Table",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Side Table",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "side, table, sitting, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "SideTable.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "side, table, sitting, interior",
-        "realname": "Side Table",
-        "category": "3D Models",
-        "date": 1679487635.3594217,
-        "size": "1970002",
-        "thumbnail": "Assets/Side Table/thumbnail.png",
-        "description": "# Side Table\nA simple bedside table. Good for placing things on top of it. Lightmap ready."
-    },
-    {
-        "name": "Couch1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Couch 1",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "couch, sitting, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Couch1.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "couch, sitting, interior",
-        "realname": "Couch 1",
-        "category": "3D Models",
-        "date": 1679487634.7914248,
-        "size": "9447917",
-        "thumbnail": "Assets/Couch1/thumbnail.png",
-        "description": "# Couch 1\nA comfy looking couch. Ready for lightmap."
+        "date": 1681215614.661845,
+        "size": "2533656",
+        "thumbnail": "Assets/Couch/thumbnail.png",
+        "description": "# Couch\nIt's a comfortable couch that can be sat on. It's lightmap ready."
     },
     {
         "name": "Bricks02",
@@ -169,210 +94,10 @@
         "tags": "Bricks02, contrast, pattern, wall",
         "realname": "Bricks02",
         "category": "Materials",
-        "date": 1679487634.7114253,
+        "date": 1681215614.5698445,
         "size": "24565838",
         "thumbnail": "Assets/Bricks02/thumbnail.jpg",
         "description": "# Bricks 02\nBricks 02 from CC0Textures."
-    },
-    {
-        "name": "Wall Light 2",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Wall Light 2",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "wall, light, architectural, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "WallLight2.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wall, light, architectural, interior",
-        "realname": "Wall Light 2",
-        "category": "3D Models",
-        "date": 1679487635.3834217,
-        "size": "130582",
-        "thumbnail": "Assets/Wall Light 2/thumbnail.png",
-        "description": "# Wall Light 2\nAn architectural element for creating recessed lighting on the wall. Light is provided with in-mesh emissive materials. Lightmap ready."
-    },
-    {
-        "name": "Design Chair 2",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Design Chair 2",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "design, chair, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "DesignChair2.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "design, chair, interior",
-        "realname": "Design Chair 2",
-        "category": "3D Models",
-        "date": 1679487634.8314247,
-        "size": "11524612",
-        "thumbnail": "Assets/Design Chair 2/thumbnail.png",
-        "description": "# Design Chair 1\nA designer chair in glossy plastic. Lightmap ready."
-    },
-    {
-        "name": "Planks07",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Planks 07",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Planks 07.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "",
-        "realname": "Planks 07",
-        "category": "Materials",
-        "date": 1679487635.2914221,
-        "size": "16960509",
-        "thumbnail": "Assets/Planks07/thumbnail.jpg",
-        "description": "# Planks 07\nPlanks 07 from CC0Textures."
-    },
-    {
-        "name": "Book 2",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Book 2",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "book, reading, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Book.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "book, reading, interior",
-        "realname": "Book 2",
-        "category": "3D Models",
-        "date": 1679487634.6674254,
-        "size": "142037",
-        "thumbnail": "Assets/Book 2/thumbnail.png",
-        "description": "# Book 2\nA very simple slim book. Lightmap ready."
-    },
-    {
-        "name": "WoodFloor21",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "WoodFloor21",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "WoodFloor21.zip",
-            "version": "0.01",
-            "website": "",
-            "tags": "wooden, contrast, pattern, floor, flooring, wood, parquet",
-            "powerplug": {
-                "mode": "blend",
-                "src": "WoodFloor21.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wooden, contrast, pattern, floor, flooring, wood, parquet",
-        "realname": "WoodFloor21",
-        "category": "Materials",
-        "date": 1679487635.4274216,
-        "size": "9978748",
-        "thumbnail": "Assets/WoodFloor21/thumbnail.png",
-        "description": "# Wooden Floor 21\nWooden Floor 21 from CC0Textures."
-    },
-    {
-        "name": "Planks04",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Planks04",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Planks04.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "",
-        "realname": "Planks04",
-        "category": "Materials",
-        "date": 1679487635.2354226,
-        "size": "17303170",
-        "thumbnail": "Assets/Planks04/thumbnail.jpg",
-        "description": "# Planks 04\nPlanks 04 from CC0Textures."
-    },
-    {
-        "name": "Boards - Basketweave",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Boards - Basketweave",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "wood, board, floor, basketweave",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Boards - Basketweave.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wood, board, floor, basketweave",
-        "realname": "Boards - Basketweave",
-        "category": "Materials",
-        "date": 1679487634.6594255,
-        "size": "562338",
-        "thumbnail": "Assets/Boards - Basketweave/thumbnail.png",
-        "description": "# Boards - Basketweave \n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nBoards - Basketweave from the Blender Diorama Demo."
-    },
-    {
-        "name": "Porcelain - Black",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Porcelain - Black",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "porcelain",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Porcelain - Black.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "porcelain",
-        "realname": "Porcelain - Black",
-        "category": "Materials",
-        "date": 1679487635.315422,
-        "size": "191306",
-        "thumbnail": "Assets/Porcelain - Black/thumbnail.png",
-        "description": "# Porcelain - Black\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nPorcelain - Black from the Blender Diorama Demo."
     },
     {
         "name": "Wood5",
@@ -394,35 +119,160 @@
         "tags": "wood",
         "realname": "Wood 5",
         "category": "Materials",
-        "date": 1679487635.4074216,
+        "date": 1681215615.5538483,
         "size": "827707",
         "thumbnail": "Assets/Wood5/thumbnail.png",
         "description": "# Wood 5\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 5 from the Blender Diorama Demo."
     },
     {
-        "name": "Porcelain - White",
+        "name": "Boards - Herringbone",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Porcelain - White",
+            "name": "Boards - Herringbone",
             "creator": "Naxela",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "porcelain",
+            "tags": "wood, board, floor, herringbone",
             "version": "0.01",
             "website": "https://www.blender.org/download/demo-files/",
             "powerplug": {
                 "mode": "blend",
-                "src": "Porcelain - White.blend"
+                "src": "Boards - Herringbone.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "porcelain",
-        "realname": "Porcelain - White",
+        "tags": "wood, board, floor, herringbone",
+        "realname": "Boards - Herringbone",
         "category": "Materials",
-        "date": 1679487635.319422,
-        "size": "191810",
-        "thumbnail": "Assets/Porcelain - White/thumbnail.png",
-        "description": "# Porcelain - White\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nPorcelain - White from the Blender Diorama Demo."
+        "date": 1681215614.5058444,
+        "size": "543056",
+        "thumbnail": "Assets/Boards - Herringbone/thumbnail.png",
+        "description": "# Boards - Herringbone\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nBoards - Herringbone from the Blender Diorama Demo."
+    },
+    {
+        "name": "TVTable2",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "TVTable2",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "tv,table,furniture,living,room,interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "TVTable2.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "tv,table,furniture,living,room,interior",
+        "realname": "TVTable2",
+        "category": "3D Models",
+        "date": 1681215615.505848,
+        "size": "111481",
+        "thumbnail": "Assets/TVTable2/thumbnail.png",
+        "description": "# TVTable2\nIt's a long slim TV Table. You can place a TV on top of it, and place some books underneath, or whatever."
+    },
+    {
+        "name": "Planks06",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Planks06",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks06.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "",
+        "realname": "Planks06",
+        "category": "Materials",
+        "date": 1681215615.3298473,
+        "size": "18414173",
+        "thumbnail": "Assets/Planks06/thumbnail.jpg",
+        "description": "# Planks 06\nPlanks 06 from CC0Textures."
+    },
+    {
+        "name": "Power Socket",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Power socket",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "power, electricity, lighting",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Socket.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "power, electricity, lighting",
+        "realname": "Power socket",
+        "category": "3D Models",
+        "date": 1681215615.4418478,
+        "size": "915314",
+        "thumbnail": "Assets/Power Socket/thumbnail.png",
+        "description": "# Power socket\nA simple power socket. Lightmap ready."
+    },
+    {
+        "name": "Planks09",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Planks 09",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks09.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "",
+        "realname": "Planks 09",
+        "category": "Materials",
+        "date": 1681215615.4218476,
+        "size": "13511378",
+        "thumbnail": "Assets/Planks09/thumbnail.jpg",
+        "description": "# Planks 09\nPlanks 09 from CC0Textures."
+    },
+    {
+        "name": "Vase",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Vase",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "vase, sculpture, decoration",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Vase.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "vase, sculpture, decoration",
+        "realname": "Vase",
+        "category": "3D Models",
+        "date": 1681215615.513848,
+        "size": "160498",
+        "thumbnail": "Assets/Vase/thumbnail.png",
+        "description": "# Vase\nA simple vase. Ready to be lightmapped."
     },
     {
         "name": "Power Switch",
@@ -444,7 +294,7 @@
         "tags": "power, electricity, lighting",
         "realname": "Power switch",
         "category": "3D Models",
-        "date": 1679487635.327422,
+        "date": 1681215615.4498477,
         "size": "902705",
         "thumbnail": "Assets/Power Switch/thumbnail.png",
         "description": "# Power switch\nA very simple power switch. Lightmap ready."
@@ -469,41 +319,116 @@
         "tags": "couch, sitting, interior",
         "realname": "Leather Couch",
         "category": "3D Models",
-        "date": 1679487634.923424,
+        "date": 1681215614.8498456,
         "size": "351339",
         "thumbnail": "Assets/Leather Couch/thumbnail.png",
         "description": "# Leather couch\nA low poly leather couch. Lightmap ready. Can't remember where I found it."
     },
     {
-        "name": "Floor Shelf",
+        "name": "Book 2",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Floor Shelf",
+            "name": "Book 2",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "floor, shelf, organic, light, architectural, interior",
+            "tags": "book, reading, interior",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "FloorShelf.blend"
+                "src": "Book.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "floor, shelf, organic, light, architectural, interior",
-        "realname": "Floor Shelf",
+        "tags": "book, reading, interior",
+        "realname": "Book 2",
         "category": "3D Models",
-        "date": 1679487634.8994243,
-        "size": "387285",
-        "thumbnail": "Assets/Floor Shelf/thumbnail.png",
-        "description": "# Floor Shelf\nI've got to admit that I'm not entirely sure what to call this. It's some sort of container for a blob sculpture with integrated lighting. Lightmap ready."
+        "date": 1681215614.5098443,
+        "size": "142037",
+        "thumbnail": "Assets/Book 2/thumbnail.png",
+        "description": "# Book 2\nA very simple slim book. Lightmap ready."
     },
     {
-        "name": "Design Chair 1",
+        "name": "Planks07",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Design Chair 1",
+            "name": "Planks 07",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks 07.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "",
+        "realname": "Planks 07",
+        "category": "Materials",
+        "date": 1681215615.3898475,
+        "size": "16960509",
+        "thumbnail": "Assets/Planks07/thumbnail.jpg",
+        "description": "# Planks 07\nPlanks 07 from CC0Textures."
+    },
+    {
+        "name": "Boards - Basketweave",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Boards - Basketweave",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "wood, board, floor, basketweave",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Boards - Basketweave.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wood, board, floor, basketweave",
+        "realname": "Boards - Basketweave",
+        "category": "Materials",
+        "date": 1681215614.5018444,
+        "size": "562338",
+        "thumbnail": "Assets/Boards - Basketweave/thumbnail.png",
+        "description": "# Boards - Basketweave \n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nBoards - Basketweave from the Blender Diorama Demo."
+    },
+    {
+        "name": "Porcelain - Teal",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Porcelain - Teal",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "material, porcelain, teal, coloured",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Porcelain - Teal.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "material, porcelain, teal, coloured",
+        "realname": "Porcelain - Teal",
+        "category": "Materials",
+        "date": 1681215615.4338477,
+        "size": "209256",
+        "thumbnail": "Assets/Porcelain - Teal/thumbnail.png",
+        "description": "# Porcelain - Teal\nIt's a porcelain material, imagine a beautiful teapot with this color!"
+    },
+    {
+        "name": "Design Chair 3",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Design Chair 3",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
@@ -512,492 +437,17 @@
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "DesignChair.blend"
+                "src": "DesignChair3.blend"
             }
         },
         "creator": "Naxela",
         "tags": "design, chair, interior",
-        "realname": "Design Chair 1",
+        "realname": "Design Chair 3",
         "category": "3D Models",
-        "date": 1679487634.8234246,
-        "size": "10908202",
-        "thumbnail": "Assets/Design Chair 1/thumbnail.png",
-        "description": "# Design Chair 1\nA designer chair in glossy plastic. Lightmap ready."
-    },
-    {
-        "name": "WC",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "WC",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "wc, toilet, bathroom, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "WC.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wc, toilet, bathroom, interior",
-        "realname": "WC",
-        "category": "3D Models",
-        "date": 1679487635.3794217,
-        "size": "607364",
-        "thumbnail": "Assets/WC/thumbnail.png",
-        "description": "# WC\nA very simple toilet. You can sit on it, and it comes with buttons. Ready for lightmap."
-    },
-    {
-        "name": "Wood1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Wood 1",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "wood",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Wood1.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wood",
-        "realname": "Wood 1",
-        "category": "Materials",
-        "date": 1679487635.3874216,
-        "size": "836434",
-        "thumbnail": "Assets/Wood1/thumbnail.png",
-        "description": "# Wood 1\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 1 from the Blender Diorama Demo."
-    },
-    {
-        "name": "Bed",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Bed",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "bed, sleeping, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Bed.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "bed, sleeping, interior",
-        "realname": "Bed",
-        "category": "3D Models",
-        "date": 1679487634.6474257,
-        "size": "272873",
-        "thumbnail": "Assets/Bed/thumbnail.png",
-        "description": "# Bed\nA very simple double bed. Good when you don't need something detailed. Lightmap ready."
-    },
-    {
-        "name": "Planks06",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Planks06",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Planks06.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "",
-        "realname": "Planks06",
-        "category": "Materials",
-        "date": 1679487635.2634223,
-        "size": "18414173",
-        "thumbnail": "Assets/Planks06/thumbnail.jpg",
-        "description": "# Planks 06\nPlanks 06 from CC0Textures."
-    },
-    {
-        "name": "Bed2",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Bed 2",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "bed, furniture, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Bed.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "bed, furniture, interior",
-        "realname": "Bed 2",
-        "category": "3D Models",
-        "date": 1679487634.6554255,
-        "size": "1696999",
-        "thumbnail": "Assets/Bed2/thumbnail.png",
-        "description": "# Bed2\nA simple white bed with blanket, it doesn't come with a bedframe. It's lightmap ready."
-    },
-    {
-        "name": "Power Socket",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Power socket",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "power, electricity, lighting",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Socket.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "power, electricity, lighting",
-        "realname": "Power socket",
-        "category": "3D Models",
-        "date": 1679487635.323422,
-        "size": "915314",
-        "thumbnail": "Assets/Power Socket/thumbnail.png",
-        "description": "# Power socket\nA simple power socket. Lightmap ready."
-    },
-    {
-        "name": "Construction Elements HCS",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Construction Elements HCS",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Construction-Elements-HCS.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "",
-        "realname": "Construction Elements HCS",
-        "category": "3D Models",
-        "date": 1679487634.751425,
-        "size": "14401184",
-        "thumbnail": "Assets/Construction Elements HCS/thumbnail.jpg",
-        "description": "# Construction-Elements-HCS\nConstruction-Elements HCS is a pack of 12 hollow core slabs that can be used for construction-related games or architectural visualization. "
-    },
-    {
-        "name": "Bathroom Sink",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Bathroom Sink",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "sink, bathroom, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "BathroomSink.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "sink, bathroom, interior",
-        "realname": "Bathroom Sink",
-        "category": "3D Models",
-        "date": 1679487634.6434257,
-        "size": "466224",
-        "thumbnail": "Assets/Bathroom Sink/thumbnail.png",
-        "description": "# Bathroom Sink\nA very simple bathroom sink. Ready for lightmap."
-    },
-    {
-        "name": "Flood Light 1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Flood light",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "floor, flood, light, industrial, architectural, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "FloodLight.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "floor, flood, light, industrial, architectural, interior",
-        "realname": "Flood light",
-        "category": "3D Models",
-        "date": 1679487634.8954244,
-        "size": "153280",
-        "thumbnail": "Assets/Flood Light 1/thumbnail.png",
-        "description": "# Flood light\nA simple building/construction flood light that comes along with IES-based point lights. Lightmap ready."
-    },
-    {
-        "name": "Kitchen Set 1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Kitchen Set 1",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "kitchen,room,interior,dining",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "KitchenSet.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "kitchen,room,interior,dining",
-        "realname": "Kitchen Set 1",
-        "category": "3D Models",
-        "date": 1679487634.919424,
-        "size": "1006499",
-        "thumbnail": "Assets/Kitchen Set 1/thumbnail.png",
-        "description": "# Kitchen Set 1\nA kitchen set consisting of 7 different modules, each individually ready to be assembled and lightmapped in whatever order."
-    },
-    {
-        "name": "TVTable2",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "TVTable2",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "tv,table,furniture,living,room,interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "TVTable2.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "tv,table,furniture,living,room,interior",
-        "realname": "TVTable2",
-        "category": "3D Models",
-        "date": 1679487635.3674219,
-        "size": "111481",
-        "thumbnail": "Assets/TVTable2/thumbnail.png",
-        "description": "# TVTable2\nIt's a long slim TV Table. You can place a TV on top of it, and place some books underneath, or whatever."
-    },
-    {
-        "name": "Planks02",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Planks02",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Planks02.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "",
-        "realname": "Planks02",
-        "category": "Materials",
-        "date": 1679487635.2074227,
-        "size": "14752826",
-        "thumbnail": "Assets/Planks02/thumbnail.jpg",
-        "description": "# Planks 02\nPlanks 02 from CC0Textures."
-    },
-    {
-        "name": "Wall Light 1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Wall Light 1",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "wall, light, architectural, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "WallLight1.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wall, light, architectural, interior",
-        "realname": "Wall Light 1",
-        "category": "3D Models",
-        "date": 1679487635.3794217,
-        "size": "116925",
-        "thumbnail": "Assets/Wall Light 1/thumbnail.png",
-        "description": "# Wall Light 1\nAn architectural element for creating recessed lighting on the wall. Light is provided with in-mesh emissive materials. Lightmap ready."
-    },
-    {
-        "name": "Wood4",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Wood 4",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "wood",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Wood4.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wood",
-        "realname": "Wood 4",
-        "category": "Materials",
-        "date": 1679487635.3994217,
-        "size": "816696",
-        "thumbnail": "Assets/Wood4/thumbnail.png",
-        "description": "# Wood 4\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 4 from the Blender Diorama Demo."
-    },
-    {
-        "name": "Chair1",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Chair 1",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "chair, sitting, interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Chair1.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "chair, sitting, interior",
-        "realname": "Chair 1",
-        "category": "3D Models",
-        "date": 1679487634.727425,
-        "size": "8883963",
-        "thumbnail": "Assets/Chair1/thumbnail.png",
-        "description": "# Chair 1\nA very simple chair for the living room. It looks good and comfy. Ready for lightmap."
-    },
-    {
-        "name": "Dining Table",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Dining Table",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "table,furniture,living,room,interior,dining",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "DiningTable.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "table,furniture,living,room,interior,dining",
-        "realname": "Dining Table",
-        "category": "3D Models",
-        "date": 1679487634.8954244,
-        "size": "152518",
-        "thumbnail": "Assets/Dining Table/thumbnail.png",
-        "description": "# Dining Table\nA very simple dining table. Chrome metallic legs and a glossy colored surface."
-    },
-    {
-        "name": "Boards - Herringbone",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Boards - Herringbone",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "wood, board, floor, herringbone",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Boards - Herringbone.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wood, board, floor, herringbone",
-        "realname": "Boards - Herringbone",
-        "category": "Materials",
-        "date": 1679487634.6634254,
-        "size": "543056",
-        "thumbnail": "Assets/Boards - Herringbone/thumbnail.png",
-        "description": "# Boards - Herringbone\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nBoards - Herringbone from the Blender Diorama Demo."
-    },
-    {
-        "name": "Couch",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Couch",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "couch,furniture,sofa,interior,fabric",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Couch.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "couch,furniture,sofa,interior,fabric",
-        "realname": "Couch",
-        "category": "3D Models",
-        "date": 1679487634.7674248,
-        "size": "2533656",
-        "thumbnail": "Assets/Couch/thumbnail.png",
-        "description": "# Couch\nIt's a comfortable couch that can be sat on. It's lightmap ready."
-    },
-    {
-        "name": "Wood3",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "Wood 3",
-            "creator": "Naxela",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "wood",
-            "version": "0.01",
-            "website": "https://www.blender.org/download/demo-files/",
-            "powerplug": {
-                "mode": "blend",
-                "src": "Wood3.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "wood",
-        "realname": "Wood 3",
-        "category": "Materials",
-        "date": 1679487635.3954217,
-        "size": "843275",
-        "thumbnail": "Assets/Wood3/thumbnail.png",
-        "description": "# Wood 3\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 3 from the Blender Diorama Demo."
+        "date": 1681215614.8138454,
+        "size": "12695834",
+        "thumbnail": "Assets/Design Chair 3/thumbnail.png",
+        "description": "# Design Chair 3\nA design chair that is black, made of wood and lightmap ready."
     },
     {
         "name": "TVTable",
@@ -1019,60 +469,35 @@
         "tags": "tv,table,furniture,living,room,interior",
         "realname": "TVTable",
         "category": "3D Models",
-        "date": 1679487635.363422,
+        "date": 1681215615.501848,
         "size": "114107",
         "thumbnail": "Assets/TVTable/thumbnail.png",
         "description": "# TVTable\nIt's a very simple TV Table, you can use it to place a TV on."
     },
     {
-        "name": "Computer Screen",
+        "name": "Wood3",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Computer Screen",
+            "name": "Wood 3",
             "creator": "Naxela",
-            "category": "3D Models",
+            "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "computer,screen,electronics,interior",
+            "tags": "wood",
             "version": "0.01",
-            "website": "",
+            "website": "https://www.blender.org/download/demo-files/",
             "powerplug": {
                 "mode": "blend",
-                "src": "ComputerScreen.blend"
+                "src": "Wood3.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "computer,screen,electronics,interior",
-        "realname": "Computer Screen",
-        "category": "3D Models",
-        "date": 1679487634.731425,
-        "size": "118352",
-        "thumbnail": "Assets/Computer Screen/thumbnail.png",
-        "description": "# Computer Screen\nIt's a computer screen. Faaancy!"
-    },
-    {
-        "name": "TV",
-        "repo": "A3D-Blacksmith/BM-Main",
-        "manifest": {
-            "name": "TV",
-            "creator": "Naxela",
-            "category": "3D Models",
-            "filename": "Assets.zip",
-            "tags": "tv,furniture,living,room,interior",
-            "version": "0.01",
-            "website": "",
-            "powerplug": {
-                "mode": "blend",
-                "src": "TV.blend"
-            }
-        },
-        "creator": "Naxela",
-        "tags": "tv,furniture,living,room,interior",
-        "realname": "TV",
-        "category": "3D Models",
-        "date": 1679487635.363422,
-        "size": "105462",
-        "thumbnail": "Assets/TV/thumbnail.png",
-        "description": "# TV\nIt's a very TV. No idea how many inches, but it can be scaled up. Works great for living rooms."
+        "tags": "wood",
+        "realname": "Wood 3",
+        "category": "Materials",
+        "date": 1681215615.5418482,
+        "size": "843275",
+        "thumbnail": "Assets/Wood3/thumbnail.png",
+        "description": "# Wood 3\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 3 from the Blender Diorama Demo."
     },
     {
         "name": "Statue",
@@ -1094,85 +519,85 @@
         "tags": "statue, sculpture, decoration",
         "realname": "Statue",
         "category": "3D Models",
-        "date": 1679487635.3594217,
+        "date": 1681215615.4938478,
         "size": "289303",
         "thumbnail": "Assets/Statue/thumbnail.png",
         "description": "# Statue\nA very simple green statue. Not sure what on earth it is supposed to be. Lightmap ready."
     },
     {
-        "name": "Dining Chair",
+        "name": "Wall Light 1",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Dining Chair",
+            "name": "Wall Light 1",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "chair,furniture,living,room,interior,dining",
+            "tags": "wall, light, architectural, interior",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "DiningChair.blend"
+                "src": "WallLight1.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "chair,furniture,living,room,interior,dining",
-        "realname": "Dining Chair",
+        "tags": "wall, light, architectural, interior",
+        "realname": "Wall Light 1",
         "category": "3D Models",
-        "date": 1679487634.8914242,
-        "size": "362547",
-        "thumbnail": "Assets/Dining Chair/thumbnail.png",
-        "description": "# Dining Chair\nA very simple dining chair. Fits together with the Dining Table asset. Lightmap ready."
+        "date": 1681215615.521848,
+        "size": "116925",
+        "thumbnail": "Assets/Wall Light 1/thumbnail.png",
+        "description": "# Wall Light 1\nAn architectural element for creating recessed lighting on the wall. Light is provided with in-mesh emissive materials. Lightmap ready."
     },
     {
-        "name": "Table",
+        "name": "Bed",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Table",
+            "name": "Bed",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "table,furniture,living,room,interior,dining",
+            "tags": "bed, sleeping, interior",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Table.blend"
+                "src": "Bed.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "table,furniture,living,room,interior,dining",
-        "realname": "Table",
+        "tags": "bed, sleeping, interior",
+        "realname": "Bed",
         "category": "3D Models",
-        "date": 1679487635.3714218,
-        "size": "157404",
-        "thumbnail": "Assets/Table/thumbnail.png",
-        "description": "# Table\nIt's a very fine table. You can place food on it, or maybe a book!"
+        "date": 1681215614.4858444,
+        "size": "272873",
+        "thumbnail": "Assets/Bed/thumbnail.png",
+        "description": "# Bed\nA very simple double bed. Good when you don't need something detailed. Lightmap ready."
     },
     {
-        "name": "Reception Sofa",
+        "name": "Construction Elements HCS",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Reception Sofa",
+            "name": "Construction Elements HCS",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "reception,sofa,tv,furniture,living,room,interior",
+            "tags": "",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "ReceptionSofa.blend"
+                "src": "Construction-Elements-HCS.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "reception,sofa,tv,furniture,living,room,interior",
-        "realname": "Reception Sofa",
+        "tags": "",
+        "realname": "Construction Elements HCS",
         "category": "3D Models",
-        "date": 1679487635.3514218,
-        "size": "15919675",
-        "thumbnail": "Assets/Reception Sofa/thumbnail.png",
-        "description": "# Reception Sofa\nIt's a slighly long sofa. It could easily be a type placed in a reception."
+        "date": 1681215614.645845,
+        "size": "14401184",
+        "thumbnail": "Assets/Construction Elements HCS/thumbnail.jpg",
+        "description": "# Construction-Elements-HCS\nConstruction-Elements HCS is a pack of 12 hollow core slabs that can be used for construction-related games or architectural visualization. "
     },
     {
         "name": "Lighting Showcase",
@@ -1193,35 +618,35 @@
         "tags": "lighting, scene, lightmapping",
         "realname": "Lighting Showcase",
         "category": "Scenes",
-        "date": 1679487635.107423,
+        "date": 1681215615.1018465,
         "size": "77455293",
         "thumbnail": "Assets/Lighting Showcase/thumbnail.png",
         "description": "# Lighting Showcase\n\n![Lighting Showcase](https://img.itch.zone/aW1hZ2UvODM5NzUxLzQ3MDc3MzMuanBn/347x500/vouQKZ.jpg)\n\n![Lighting Showcase](https://img.itch.zone/aW1hZ2UvODM5NzUxLzQ3MDc3MzguanBn/347x500/p61w8%2B.jpg)\n\n![Lighting Showcase](https://img.itch.zone/aW1hZ2UvODM5NzUxLzQ3MDc3NDAuanBn/347x500/F1EDeA.jpg)\n\nLighting Showcase"
     },
     {
-        "name": "Planks09",
+        "name": "Plaster - White",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Planks 09",
+            "name": "Plaster - White",
             "creator": "Naxela",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "",
+            "tags": "material, plaster, white, coloured",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Planks09.blend"
+                "src": "Plaster - White.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "",
-        "realname": "Planks 09",
+        "tags": "material, plaster, white, coloured",
+        "realname": "Plaster - White",
         "category": "Materials",
-        "date": 1679487635.315422,
-        "size": "13511378",
-        "thumbnail": "Assets/Planks09/thumbnail.jpg",
-        "description": "# Planks 09\nPlanks 09 from CC0Textures."
+        "date": 1681215615.4258478,
+        "size": "227587",
+        "thumbnail": "Assets/Plaster - White/thumbnail.png",
+        "description": "# Plaster - White\nIt's a plaster material, it might be good for white walls"
     },
     {
         "name": "Kenney Interface Sounds 1",
@@ -1242,10 +667,85 @@
         "tags": "audio, interface, click, button",
         "realname": "Kenney Interface Sounds 1",
         "category": "Audio",
-        "date": 1679487634.9074242,
+        "date": 1681215614.8338456,
         "size": "836106",
         "thumbnail": "Assets/Kenney Interface Sounds 1/thumbnail.png",
         "description": "# Kenney Interface Sounds #1\nThis is a sound interface package from Kenney that includes hundreds of sounds for interfaces.\n\n[![Kenney Website](https://www.kenney.nl/data/img/logo.png)](https://www.kenney.nl)\n\nIf you like this, please support Kenney by becoming a Patreon:\n\n[Patreon Link](https://www.patreon.com/kenney) (Patreon)\n\n[Donate Link](https://kenney.itch.io/kenney-donation) (Itch.io)\n\nOr you can buy his game assets package here:\n\n[![Kenney Game Assets](https://www.kenney.nl/data/img/allin1.png)](https://kenney.itch.io/kenney-game-assets)\n\nLicense is CC0."
+    },
+    {
+        "name": "Couch1",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Couch 1",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "couch, sitting, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Couch1.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "couch, sitting, interior",
+        "realname": "Couch 1",
+        "category": "3D Models",
+        "date": 1681215614.693845,
+        "size": "9447917",
+        "thumbnail": "Assets/Couch1/thumbnail.png",
+        "description": "# Couch 1\nA comfy looking couch. Ready for lightmap."
+    },
+    {
+        "name": "TV",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "TV",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "tv,furniture,living,room,interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "TV.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "tv,furniture,living,room,interior",
+        "realname": "TV",
+        "category": "3D Models",
+        "date": 1681215615.497848,
+        "size": "121131",
+        "thumbnail": "Assets/TV/thumbnail.png",
+        "description": "# TV\nIt's a very TV. No idea how many inches, but it can be scaled up. Works great for living rooms."
+    },
+    {
+        "name": "Bed2",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Bed 2",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "bed, furniture, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Bed.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "bed, furniture, interior",
+        "realname": "Bed 2",
+        "category": "3D Models",
+        "date": 1681215614.4978445,
+        "size": "1696999",
+        "thumbnail": "Assets/Bed2/thumbnail.png",
+        "description": "# Bed2\nA simple white bed with blanket, it doesn't come with a bedframe. It's lightmap ready."
     },
     {
         "name": "PavingStones27",
@@ -1267,35 +767,210 @@
         "tags": "",
         "realname": "PavingStones27",
         "category": "Materials",
-        "date": 1679487635.1794229,
+        "date": 1681215615.197847,
         "size": "38448760",
         "thumbnail": "Assets/PavingStones27/thumbnail.jpg",
         "description": "# PavingStones27\nPavingStones27 from CC0Textures."
     },
     {
-        "name": "Book",
+        "name": "Kitchen Set 1",
         "repo": "A3D-Blacksmith/BM-Main",
         "manifest": {
-            "name": "Book",
+            "name": "Kitchen Set 1",
             "creator": "Naxela",
             "category": "3D Models",
             "filename": "Assets.zip",
-            "tags": "book, reading",
+            "tags": "kitchen,room,interior,dining",
             "version": "0.01",
             "website": "",
             "powerplug": {
                 "mode": "blend",
-                "src": "Book.blend"
+                "src": "KitchenSet.blend"
             }
         },
         "creator": "Naxela",
-        "tags": "book, reading",
-        "realname": "Book",
+        "tags": "kitchen,room,interior,dining",
+        "realname": "Kitchen Set 1",
         "category": "3D Models",
-        "date": 1679487634.6674254,
-        "size": "138312",
-        "thumbnail": "Assets/Book/thumbnail.png",
-        "description": "# Book\nA very simple book. Uses random coloring per book. Lightmap ready.\n\nI wonder what horrible things might be written here!"
+        "date": 1681215614.8458457,
+        "size": "1006499",
+        "thumbnail": "Assets/Kitchen Set 1/thumbnail.png",
+        "description": "# Kitchen Set 1\nA kitchen set consisting of 7 different modules, each individually ready to be assembled and lightmapped in whatever order."
+    },
+    {
+        "name": "Planks04",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Planks04",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks04.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "",
+        "realname": "Planks04",
+        "category": "Materials",
+        "date": 1681215615.2898471,
+        "size": "17303170",
+        "thumbnail": "Assets/Planks04/thumbnail.jpg",
+        "description": "# Planks 04\nPlanks 04 from CC0Textures."
+    },
+    {
+        "name": "Planks - Herringbone",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Planks - Herringbone",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "material, plank, herringbone, bone",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks - Herringbone.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "material, plank, herringbone, bone",
+        "realname": "Planks - Herringbone",
+        "category": "Materials",
+        "date": 1681215615.2058468,
+        "size": "2177010",
+        "thumbnail": "Assets/Planks - Herringbone/thumbnail.png",
+        "description": "# Planks - Herringbone\nIt's a plank texture, it does look slightly stylized."
+    },
+    {
+        "name": "Bathroom Sink",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Bathroom Sink",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "sink, bathroom, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "BathroomSink.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "sink, bathroom, interior",
+        "realname": "Bathroom Sink",
+        "category": "3D Models",
+        "date": 1681215614.4818442,
+        "size": "466224",
+        "thumbnail": "Assets/Bathroom Sink/thumbnail.png",
+        "description": "# Bathroom Sink\nA very simple bathroom sink. Ready for lightmap."
+    },
+    {
+        "name": "Plaster - Teal",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Plaster - Teal",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "material, plaster, teal, coloured",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Plaster - Teal.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "material, plaster, teal, coloured",
+        "realname": "Plaster - Teal",
+        "category": "Materials",
+        "date": 1681215615.4218476,
+        "size": "248729",
+        "thumbnail": "Assets/Plaster - Teal/thumbnail.png",
+        "description": "# Plaster - Teal\nIt's a plaster material, it might be good for walls"
+    },
+    {
+        "name": "WC",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "WC",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "wc, toilet, bathroom, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "WC.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wc, toilet, bathroom, interior",
+        "realname": "WC",
+        "category": "3D Models",
+        "date": 1681215615.517848,
+        "size": "607364",
+        "thumbnail": "Assets/WC/thumbnail.png",
+        "description": "# WC\nA very simple toilet. You can sit on it, and it comes with buttons. Ready for lightmap."
+    },
+    {
+        "name": "Planks02",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Planks02",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Planks02.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "",
+        "realname": "Planks02",
+        "category": "Materials",
+        "date": 1681215615.241847,
+        "size": "14752826",
+        "thumbnail": "Assets/Planks02/thumbnail.jpg",
+        "description": "# Planks 02\nPlanks 02 from CC0Textures."
+    },
+    {
+        "name": "Table",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Table",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "table,furniture,living,room,interior,dining",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Table.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "table,furniture,living,room,interior,dining",
+        "realname": "Table",
+        "category": "3D Models",
+        "date": 1681215615.509848,
+        "size": "157404",
+        "thumbnail": "Assets/Table/thumbnail.png",
+        "description": "# Table\nIt's a very fine table. You can place food on it, or maybe a book!"
     },
     {
         "name": "Wood2",
@@ -1317,9 +992,484 @@
         "tags": "wood",
         "realname": "Wood 2",
         "category": "Materials",
-        "date": 1679487635.3914218,
+        "date": 1681215615.537848,
         "size": "838372",
         "thumbnail": "Assets/Wood2/thumbnail.png",
         "description": "# Wood 2\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 2 from the Blender Diorama Demo."
+    },
+    {
+        "name": "Porcelain - White",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Porcelain - White",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "porcelain",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Porcelain - White.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "porcelain",
+        "realname": "Porcelain - White",
+        "category": "Materials",
+        "date": 1681215615.4378479,
+        "size": "191810",
+        "thumbnail": "Assets/Porcelain - White/thumbnail.png",
+        "description": "# Porcelain - White\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nPorcelain - White from the Blender Diorama Demo."
+    },
+    {
+        "name": "Dining Table",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Dining Table",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "table,furniture,living,room,interior,dining",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "DiningTable.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "table,furniture,living,room,interior,dining",
+        "realname": "Dining Table",
+        "category": "3D Models",
+        "date": 1681215614.8218455,
+        "size": "152518",
+        "thumbnail": "Assets/Dining Table/thumbnail.png",
+        "description": "# Dining Table\nA very simple dining table. Chrome metallic legs and a glossy colored surface."
+    },
+    {
+        "name": "Concrete",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Concrete",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "material, concrete, structure, outdoor",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Concrete.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "material, concrete, structure, outdoor",
+        "realname": "Concrete",
+        "category": "Materials",
+        "date": 1681215614.6018448,
+        "size": "586686",
+        "thumbnail": "Assets/Concrete/thumbnail.png",
+        "description": "# Concrete\nIt's a good concrete texture for concrete things!"
+    },
+    {
+        "name": "WoodFloor21",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "WoodFloor21",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "WoodFloor21.zip",
+            "version": "0.01",
+            "website": "",
+            "tags": "wooden, contrast, pattern, floor, flooring, wood, parquet",
+            "powerplug": {
+                "mode": "blend",
+                "src": "WoodFloor21.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wooden, contrast, pattern, floor, flooring, wood, parquet",
+        "realname": "WoodFloor21",
+        "category": "Materials",
+        "date": 1681215615.5818484,
+        "size": "9978748",
+        "thumbnail": "Assets/WoodFloor21/thumbnail.png",
+        "description": "# Wooden Floor 21\nWooden Floor 21 from CC0Textures."
+    },
+    {
+        "name": "Wall Light 2",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Wall Light 2",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "wall, light, architectural, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "WallLight2.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wall, light, architectural, interior",
+        "realname": "Wall Light 2",
+        "category": "3D Models",
+        "date": 1681215615.5258482,
+        "size": "130582",
+        "thumbnail": "Assets/Wall Light 2/thumbnail.png",
+        "description": "# Wall Light 2\nAn architectural element for creating recessed lighting on the wall. Light is provided with in-mesh emissive materials. Lightmap ready."
+    },
+    {
+        "name": "Design Chair 1",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Design Chair 1",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "design, chair, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "DesignChair.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "design, chair, interior",
+        "realname": "Design Chair 1",
+        "category": "3D Models",
+        "date": 1681215614.7338452,
+        "size": "10908202",
+        "thumbnail": "Assets/Design Chair 1/thumbnail.png",
+        "description": "# Design Chair 1\nA designer chair in glossy plastic. Lightmap ready."
+    },
+    {
+        "name": "Porcelain - Black",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Porcelain - Black",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "porcelain",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Porcelain - Black.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "porcelain",
+        "realname": "Porcelain - Black",
+        "category": "Materials",
+        "date": 1681215615.4298477,
+        "size": "191306",
+        "thumbnail": "Assets/Porcelain - Black/thumbnail.png",
+        "description": "# Porcelain - Black\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nPorcelain - Black from the Blender Diorama Demo."
+    },
+    {
+        "name": "Wood4",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Wood 4",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "wood",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Wood4.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wood",
+        "realname": "Wood 4",
+        "category": "Materials",
+        "date": 1681215615.5458481,
+        "size": "816696",
+        "thumbnail": "Assets/Wood4/thumbnail.png",
+        "description": "# Wood 4\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 4 from the Blender Diorama Demo."
+    },
+    {
+        "name": "Wood6",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Wood 6",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "wood, floor",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Wood6.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wood, floor",
+        "realname": "Wood 6",
+        "category": "Materials",
+        "date": 1681215615.5578482,
+        "size": "856148",
+        "thumbnail": "Assets/Wood6/thumbnail.png",
+        "description": "# Wood 6\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 6 from the Blender Diorama Demo."
+    },
+    {
+        "name": "Book",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Book",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "book, reading",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Book.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "book, reading",
+        "realname": "Book",
+        "category": "3D Models",
+        "date": 1681215614.5098443,
+        "size": "138312",
+        "thumbnail": "Assets/Book/thumbnail.png",
+        "description": "# Book\nA very simple book. Uses random coloring per book. Lightmap ready.\n\nI wonder what horrible things might be written here!"
+    },
+    {
+        "name": "Chair1",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Chair 1",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "chair, sitting, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Chair1.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "chair, sitting, interior",
+        "realname": "Chair 1",
+        "category": "3D Models",
+        "date": 1681215614.5898447,
+        "size": "8883963",
+        "thumbnail": "Assets/Chair1/thumbnail.png",
+        "description": "# Chair 1\nA very simple chair for the living room. It looks good and comfy. Ready for lightmap."
+    },
+    {
+        "name": "Side Table",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Side Table",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "side, table, sitting, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "SideTable.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "side, table, sitting, interior",
+        "realname": "Side Table",
+        "category": "3D Models",
+        "date": 1681215615.489848,
+        "size": "1970002",
+        "thumbnail": "Assets/Side Table/thumbnail.png",
+        "description": "# Side Table\nA simple bedside table. Good for placing things on top of it. Lightmap ready."
+    },
+    {
+        "name": "Dining Chair",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Dining Chair",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "chair,furniture,living,room,interior,dining",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "DiningChair.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "chair,furniture,living,room,interior,dining",
+        "realname": "Dining Chair",
+        "category": "3D Models",
+        "date": 1681215614.8178456,
+        "size": "362547",
+        "thumbnail": "Assets/Dining Chair/thumbnail.png",
+        "description": "# Dining Chair\nA very simple dining chair. Fits together with the Dining Table asset. Lightmap ready."
+    },
+    {
+        "name": "Design Chair 2",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Design Chair 2",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "design, chair, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "DesignChair2.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "design, chair, interior",
+        "realname": "Design Chair 2",
+        "category": "3D Models",
+        "date": 1681215614.7498453,
+        "size": "11524612",
+        "thumbnail": "Assets/Design Chair 2/thumbnail.png",
+        "description": "# Design Chair 1\nA designer chair in glossy plastic. Lightmap ready."
+    },
+    {
+        "name": "Metal",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Metal",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal, metallic",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Metal.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "metal, metallic",
+        "realname": "Metal",
+        "category": "Materials",
+        "date": 1681215615.1098466,
+        "size": "447854",
+        "thumbnail": "Assets/Metal/thumbnail.png",
+        "description": "# Metal\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nMetal from the Blender Diorama Demo."
+    },
+    {
+        "name": "Computer Screen",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Computer Screen",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "computer,screen,electronics,interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "ComputerScreen.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "computer,screen,electronics,interior",
+        "realname": "Computer Screen",
+        "category": "3D Models",
+        "date": 1681215614.6018448,
+        "size": "118352",
+        "thumbnail": "Assets/Computer Screen/thumbnail.png",
+        "description": "# Computer Screen\nIt's a computer screen. Faaancy!"
+    },
+    {
+        "name": "Flood Light 1",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Flood light",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "floor, flood, light, industrial, architectural, interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "FloodLight.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "floor, flood, light, industrial, architectural, interior",
+        "realname": "Flood light",
+        "category": "3D Models",
+        "date": 1681215614.8218455,
+        "size": "153280",
+        "thumbnail": "Assets/Flood Light 1/thumbnail.png",
+        "description": "# Flood light\nA simple building/construction flood light that comes along with IES-based point lights. Lightmap ready."
+    },
+    {
+        "name": "Reception Sofa",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Reception Sofa",
+            "creator": "Naxela",
+            "category": "3D Models",
+            "filename": "Assets.zip",
+            "tags": "reception,sofa,tv,furniture,living,room,interior",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "ReceptionSofa.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "reception,sofa,tv,furniture,living,room,interior",
+        "realname": "Reception Sofa",
+        "category": "3D Models",
+        "date": 1681215615.481848,
+        "size": "15919675",
+        "thumbnail": "Assets/Reception Sofa/thumbnail.png",
+        "description": "# Reception Sofa\nIt's a slighly long sofa. It could easily be a type placed in a reception."
+    },
+    {
+        "name": "Wood1",
+        "repo": "A3D-Blacksmith/BM-Main",
+        "manifest": {
+            "name": "Wood 1",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "wood",
+            "version": "0.01",
+            "website": "https://www.blender.org/download/demo-files/",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Wood1.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "wood",
+        "realname": "Wood 1",
+        "category": "Materials",
+        "date": 1681215615.529848,
+        "size": "836434",
+        "thumbnail": "Assets/Wood1/thumbnail.png",
+        "description": "# Wood 1\n\n![https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg](https://www.blender.org/wp-content/uploads/2021/12/cube-diorama.jpg)\n\nWood 1 from the Blender Diorama Demo."
     }
 ]
